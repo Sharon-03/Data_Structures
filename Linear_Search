@@ -22,6 +22,6 @@ printf("Enter the array elements: ");
   }
   if(i==n)
   {
-  printf("Element not foound.");
+  printf("Element not found.");
   }
 }
