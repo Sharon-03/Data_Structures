@@ -50,3 +50,7 @@ int main()
          printf("\t %d", queue[i]);
          }
          return 0;
+         break;
+ }
+}while(p==1||p==2);
+}
