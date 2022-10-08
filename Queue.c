@@ -19,10 +19,12 @@ int main()
 	 else
          {
           if(front==-1)
+          {
 	   front = 0;
 	   rear = rear + 1;
 	   printf("\nInset the element in queue : ");
            scanf("%d",&queue[rear]);
+          }
          }
          for(i=front;i<=rear;i++)
          {
