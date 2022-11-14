@@ -25,7 +25,7 @@ int main()
 	   else
 	   {
 	    rear=(rear+1)%n;
-	    printf("\nInset the element in queue : ");
+	    printf("\nInsert the element in queue : ");
            scanf("%d",&cq[rear]);
           }
           if(front=-1)
